@@ -1,0 +1,1 @@
+Quis colocar uma dificuldade nesse projeto, utilizar somente ambientes em cloud para testar
